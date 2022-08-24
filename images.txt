@@ -2,4 +2,4 @@ img_1
 img_3
 img_4
 
-img_6
+img_5
